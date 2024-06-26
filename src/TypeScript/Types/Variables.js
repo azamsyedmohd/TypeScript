@@ -1,0 +1,9 @@
+var batsmanName = "Sir Vivian Richards";
+batsmanName = "Sachin Tendulkar";
+// batsmanName = 9; // Type 'number' is not assignable to type 'string'.
+var numCatLives = 9;
+numCatLives += 2.4;
+// numCatLives = "Virat Kohli"; // Type 'string' is not assignable to type 'number'.
+var gameOver = true;
+gameOver = false;
+// gameOver = "true"; // Type 'string' is not assignable to type 'boolean'.
