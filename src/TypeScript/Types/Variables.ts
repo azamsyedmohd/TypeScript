@@ -25,3 +25,13 @@ thing = 1;
 thing = true;
 thing();
 thing.toUpperCase();
+
+// Usage of Type Annotation
+
+const movies = ["Mughal-e-Azam", "Sholay", "Zanjeer", "Deewar"];
+let foundMovie: string;
+for (let movie of movies) {
+  if (movie === "Mughal-e-Azam") {
+    foundMovie = movie;
+  }
+}
