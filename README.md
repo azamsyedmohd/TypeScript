@@ -2,19 +2,19 @@
 Welcome to the TypeScript Tutorial Playlist! This repository contains a collection of video tutorials designed to help you learn TypeScript from the ground up. Whether you are a beginner or looking to enhance your TypeScript skills, this playlist has something for everyone.
 
 ## Table of Contents
-1- Introduction to TypeScript
-2- Setting Up the Development Environment
-3- Basic Types
-4- Interfaces
-5- Classes
-6-Functions
-7- Modules
-8- Generics
-9- Advanced Types
-10- Decorators
-11- TypeScript with React
-12- Best Practices
-13- Project: Building a Todo App
+- 1- Introduction to TypeScript
+- 2- Setting Up the Development Environment
+- 3- Basic Types
+- 4- Interfaces
+- 5- Classes
+- 6-Functions
+- 7- Modules
+- 8- Generics
+- 9- Advanced Types
+- 10- Decorators
+- 11- TypeScript with React
+- 12- Best Practices
+- 13- Project: Building a Todo App
 
 ## Introduction to TypeScript
 In this section, we cover the basics of TypeScript, its features, and why you should use it.
