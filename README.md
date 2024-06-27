@@ -1,4 +1,4 @@
-# 🧡TypeScript Tutorial Playlist🚀
+# 🚀TypeScript Tutorial Playlist🧡
 Welcome to the TypeScript Tutorial Playlist! This repository contains a collection of video tutorials designed to help you learn TypeScript from the ground up. Whether you are a beginner or looking to enhance your TypeScript skills, this playlist has something for everyone.
 
 ## Table of Contents
