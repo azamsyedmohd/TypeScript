@@ -2,7 +2,7 @@
 Welcome to the TypeScript Tutorial Playlist! This repository contains a collection of video tutorials designed to help you learn TypeScript from the ground up. Whether you are a beginner or looking to enhance your TypeScript skills, this playlist has something for everyone.
 
 ## Table of Contents
-- 1- Introduction to TypeScript
+- Introduction to TypeScript
 - 2- Setting Up the Development Environment
 - 3- Basic Types
 - 4- Interfaces
