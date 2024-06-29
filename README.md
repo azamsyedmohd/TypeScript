@@ -4,7 +4,7 @@ Welcome to the TypeScript Tutorial Playlist! This repository contains a collecti
 ## Table of Contents
 - Introduction to TypeScript
 - Setting Up the Development Environment
-- 3- Basic Types
+- Basic Types
 - 4- Interfaces
 - 5- Classes
 - 6-Functions
