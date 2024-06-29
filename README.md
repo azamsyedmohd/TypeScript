@@ -14,7 +14,7 @@ Welcome to the TypeScript Tutorial Playlist! This repository contains a collecti
 - Decorators
 - TypeScript with React
 - Best Practices
-- 13- Project: Building a Todo App
+- Project: Building a Todo App
 
 ## Introduction to TypeScript
 In this section, we cover the basics of TypeScript, its features, and why you should use it.
