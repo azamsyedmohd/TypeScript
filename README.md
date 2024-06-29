@@ -13,7 +13,7 @@ Welcome to the TypeScript Tutorial Playlist! This repository contains a collecti
 - Advanced Types
 - Decorators
 - TypeScript with React
-- 12- Best Practices
+- Best Practices
 - 13- Project: Building a Todo App
 
 ## Introduction to TypeScript
