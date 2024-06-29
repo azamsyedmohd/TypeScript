@@ -10,7 +10,7 @@ Welcome to the TypeScript Tutorial Playlist! This repository contains a collecti
 - Functions
 - Modules
 - Generics
-- 9- Advanced Types
+- Advanced Types
 - 10- Decorators
 - 11- TypeScript with React
 - 12- Best Practices
