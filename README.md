@@ -8,7 +8,7 @@ Welcome to the TypeScript Tutorial Playlist! This repository contains a collecti
 - Interfaces
 - Classes
 - Functions
-- 7- Modules
+- Modules
 - 8- Generics
 - 9- Advanced Types
 - 10- Decorators
