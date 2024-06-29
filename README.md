@@ -11,7 +11,7 @@ Welcome to the TypeScript Tutorial Playlist! This repository contains a collecti
 - Modules
 - Generics
 - Advanced Types
-- 10- Decorators
+- Decorators
 - 11- TypeScript with React
 - 12- Best Practices
 - 13- Project: Building a Todo App
