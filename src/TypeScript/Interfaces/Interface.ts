@@ -84,3 +84,18 @@ const dogObject: Dog = {
 };
 console.log(dogObject);
 console.log(dogObject.bark());
+
+interface ServiceDog extends Dog {
+  job: "drug sniffer" | "bomb" | "guide dog";
+}
+
+const puppy: ServiceDog = {
+  name: "Golu-Golu",
+  age: 1,
+  breed: "German Shepherd",
+  bark: function () {
+    return `${this.name}is ${this.breed}`;
+  },
+  job: "bomb",
+};
+console.log(puppy);
