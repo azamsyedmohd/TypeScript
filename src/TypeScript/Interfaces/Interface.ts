@@ -50,3 +50,18 @@ const pointExample: Point = {
   },
 };
 console.log(pointExample);
+
+interface Person {
+  readonly id?: number;
+  firstName: string;
+  lastName: string;
+  nickName?: string;
+}
+
+const person: Person = {
+  id: 45,
+  firstName: "Syed Muhammad",
+  lastName: "Azam",
+  nickName: "Syed Mohd Azam",
+};
+console.log(person);
