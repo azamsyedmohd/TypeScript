@@ -99,3 +99,23 @@ const puppy: ServiceDog = {
   job: "bomb",
 };
 console.log(puppy);
+
+// Multiple Inheritence between Interfaces
+interface Human {
+  name: string;
+}
+interface EmployeeInterface {
+  readonly id: number;
+  email: string;
+}
+interface Engineer extends Human, EmployeeInterface {
+  level: string;
+  languages: string[];
+}
+const engineer: Engineer = {
+  id: 23456,
+  name: "Syed Mohd Azam",
+  email: "smazsamamu@gmail.com",
+  level: "Senior Software Engineer",
+  languages: ["JavaScript", "Python", "TypeScript"],
+};
