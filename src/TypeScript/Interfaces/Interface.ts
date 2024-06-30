@@ -65,3 +65,22 @@ const person: Person = {
   nickName: "Syed Mohd Azam",
 };
 console.log(person);
+
+interface Dog {
+  name: string;
+  age: number;
+}
+interface Dog {
+  breed: string;
+  bark: () => string;
+}
+const dogObject: Dog = {
+  name: "Elton",
+  age: 2,
+  breed: "Australian Shepherd",
+  bark: () => {
+    return "Bow!! Bow!!";
+  },
+};
+console.log(dogObject);
+console.log(dogObject.bark());
