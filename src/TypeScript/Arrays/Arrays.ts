@@ -1,0 +1,13 @@
+const activeUsers: [] = [];
+const names: string[] = [];
+names.push("Syed Mohd Azam");
+names.push("Syed Hasan Uddin");
+names.push("Syed Aqib Uddin");
+const ages: number[] = [];
+ages.push(23);
+ages.push(56);
+ages.push(79);
+ages.push(147);
+console.log(activeUsers);
+console.log(names);
+console.log(ages);
