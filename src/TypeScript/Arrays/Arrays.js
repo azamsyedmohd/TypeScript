@@ -11,3 +11,11 @@ ages.push(147);
 console.log(activeUsers);
 console.log(names);
 console.log(ages);
+// Another syntax for arrays
+var numberedValues = [];
+numberedValues.push(197);
+numberedValues.push(207);
+var pointTypeValues = [];
+pointTypeValues.push({ x: 78, y: 89 });
+pointTypeValues.push({ x: 87, y: 98 });
+console.group(pointTypeValues);
