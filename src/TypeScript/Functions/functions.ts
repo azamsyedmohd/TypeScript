@@ -65,3 +65,4 @@ function isLeapYear(year: number): boolean {
 }
 console.log(isLeapYear(2012));
 console.log(isLeapYear(2013));
+console.log(isLeapYear(300));
