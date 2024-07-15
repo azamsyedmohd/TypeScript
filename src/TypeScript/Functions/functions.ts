@@ -32,3 +32,12 @@ function checkedType(value: number) {
 console.log(checkedType(5));
 console.log(checkedType(67));
 console.log(checkedType(78));
+
+// Return type of function be void
+
+function printTwice(message: string) {
+  console.log(message);
+  console.log(message);
+}
+
+printTwice("Syed Mohd Azam");
