@@ -34,3 +34,11 @@ printTwice("Syed Mohd Azam");
 var colors = ["red", "blue", "yellow", "green", "purple"];
 var colorsResults = colors.map(function (color) { return color.toUpperCase(); });
 console.log(colorsResults);
+// Excercise 1 on Functions
+// Write a function called "twoFer" that accepts a person's name.It should return a string in the format "one for <name>, one for me".It no name is provided , it should default to 'you'.
+function twoFer(name) {
+    if (name === void 0) { name = "you"; }
+    return "one for ".concat(name, ", one for me!");
+}
+console.log(twoFer());
+console.log(twoFer("Syed Mohd Azam"));
