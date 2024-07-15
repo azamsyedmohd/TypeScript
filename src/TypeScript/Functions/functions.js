@@ -15,3 +15,12 @@ function example(a, b, c) {
 example();
 example(45, "Azam");
 example(56, "Hasan", true);
+function multiply(numOne, numTwo) {
+    return numOne * numTwo;
+}
+function checkedType(value) {
+    return Math.random() > 0.5 ? value : value.toString();
+}
+console.log(checkedType(5));
+console.log(checkedType(67));
+console.log(checkedType(78));
