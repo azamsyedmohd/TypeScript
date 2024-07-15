@@ -42,3 +42,9 @@ function twoFer(name) {
 }
 console.log(twoFer());
 console.log(twoFer("Syed Mohd Azam"));
+// Write isLeapYear() function that accepts a year and returns true/false depending on if the year is a leap year or not.
+function isLeapYear(year) {
+    return year % 400 === 0 || (year % 4 === 0 && year % 100 !== 0);
+}
+console.log(isLeapYear(2012));
+console.log(isLeapYear(2013));
