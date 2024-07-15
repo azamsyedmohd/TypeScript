@@ -10,3 +10,13 @@ const doSomething = (
 };
 
 doSomething(undefined, 67, true);
+
+function example(a: number = 0, b?: string, c?: boolean) {
+  console.log(a);
+  console.log(b);
+  console.log(c);
+}
+
+example();
+example(45, "Azam");
+example(56, "Hasan", true);
