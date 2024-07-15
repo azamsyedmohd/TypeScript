@@ -41,3 +41,9 @@ function printTwice(message: string) {
 }
 
 printTwice("Syed Mohd Azam");
+
+// Automatic Inference
+
+const colors = ["red", "blue", "yellow", "green", "purple"];
+const colorsResults = colors.map((color) => color.toUpperCase());
+console.log(colorsResults);

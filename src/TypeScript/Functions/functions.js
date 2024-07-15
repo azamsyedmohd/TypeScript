@@ -30,3 +30,7 @@ function printTwice(message) {
     console.log(message);
 }
 printTwice("Syed Mohd Azam");
+// Automatic Inference
+var colors = ["red", "blue", "yellow", "green", "purple"];
+var colorsResults = colors.map(function (color) { return color.toUpperCase(); });
+console.log(colorsResults);
